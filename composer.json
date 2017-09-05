@@ -1,0 +1,11 @@
+{
+    "name": "solt9029/goutte-login-tutorial",
+    "authors": [
+        {
+            "name": "Kenshi Shiode"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^3.2"
+    }
+}
